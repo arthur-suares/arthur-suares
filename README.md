@@ -1,10 +1,12 @@
 ### Olá! Me chamo Arthur Suares. 👋
 
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)()] -->
+<!--
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)()] 
+    ![Arthur Suares's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-suares&show_icons=true&theme=dracula)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-suares&hide_progress=false) 
+-->
 
-![Arthur Suares's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-suares&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-suares&hide_progress=false)
+<img height="200em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=arthur-suares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-suares&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que uso no meu dia 
 <div style="display : inline_block"><br/>
