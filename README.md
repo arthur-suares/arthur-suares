@@ -4,6 +4,9 @@
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)()] 
     ![Arthur Suares's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-suares&show_icons=true&theme=dracula)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-suares&hide_progress=false) 
+
+    Site para pegar as badges => https://dev.to/envoy_/150-badges-for-github-pnk
+    
 -->
 
 <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=arthur-suares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-suares&layout=compact&langs_count=7&theme=dracula"/>
